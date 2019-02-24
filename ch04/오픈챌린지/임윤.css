@@ -1,0 +1,10 @@
+    body { background-color : aliceblue;
+    h2; }
+    p { font-family: h2; font-style : italic; 
+    }
+    h1 { color : brown; text-align : center;
+    }
+    h2  { color : blue;  text-shadow: 3px 3px 5px blue; }
+    a { text-decoration: none; }
+    footer{ background: #90D000; height : 20px; padding : 50px;
+    padding-top: 10px; border-radius : 10px; }

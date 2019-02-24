@@ -1,0 +1,12 @@
+body { background-color : aliceblue;
+         color : brown;
+        margin : 20px;}
+form { background-color: pink; color : blue;
+      font-size: normal; padding : 15px; font-style: italic;}
+.input { color : black;}
+h1 { text-align : center ; font-style: normal; }
+b { font-style: normal;}
+p { background: #90D000; color : black;
+    height : 13px; padding : 7px;}
+#round1 { border-radius : 50px;
+          }
